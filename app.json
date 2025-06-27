@@ -1,6 +1,6 @@
 {
-    "name": "TG FileStreamBot",
-    "description": "Stream Telegram files to web",
+    "name": "看看你的",
+    "description": "這是測試ㄐㄐ人",
     "keywords": [
         "telegram",
         "web",
@@ -14,16 +14,16 @@
     "logo": "https://telegra.ph/file/a8bb3f6b334ad1200ddb4.png",
     "env": {
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org"
+            "description": "6495996096"
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org"
+            "description": "@daran_0925"
         },
         "BOT_TOKEN": {
-            "description": "Get this value from @BotFather"
+            "description": "7700254378:AAF190kRO-6Yj093mExtX3-c4jPDkFDd8YE"
         },
         "LOG_CHANNEL": {
-            "description": "channel ID for the log channel where the bot will forward media messages and store these files"
+            "description": "6495996096"
         },
         "HOST": {
             "description": "A Fully Qualified Domain Name or Heroku App URL. (eg. https://example.herokuapp.com). Update it After Deploying the Bot",
